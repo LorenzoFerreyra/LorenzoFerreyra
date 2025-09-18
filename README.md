@@ -6,7 +6,7 @@ From Santa Fe, Argentina
 I’m a software developer and data professional with experience in:  
 - Automation & Data Pipelines (Python, web scraping, AWS, CD/CI)  
 - Backend Development (Django, Golang, Firebase)
-- Business Intelligence & Data Analytics (Power BI, Looker Studio, SQL, NoSQL)  
+- Business Intelligence & Data Analytics (Power Platform, Looker Studio, SQL, NoSQL)  
 
 Partner at [pymedriven](https://www.pymedriven.com), a consultancy focused on making companies data-driven through custom apps, dashboards, and automation.  
 
