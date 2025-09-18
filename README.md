@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @LorenzoFerreyra and I am from Santa Fe, Argentina.
-- 👀 I’m interested in Data Analytics and Data science.
-- 🌱 I’m currently learning Data science and social sciences at the university.
-- 💞️ I’m looking to collaborate on Data science projects
-- 📫 Reach me at ferreyralorenzo2@gmail.com
+# Hi, I’m Lorenzo Ferreyra  
 
-<!---
-LorenzoFerreyra/LorenzoFerreyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+From Santa Fe, Argentina  
+
+## About Me  
+I’m a software developer and data professional with experience in:  
+- Automation & Data Pipelines (Python, web scraping, AWS, CD/CI)  
+- Backend Development (Django, Golang, Firebase)
+- Business Intelligence & Data Analytics (Power BI, Looker Studio, SQL, NoSQL)  
+
+Partner at [pymedriven](https://www.pymedriven.com), a consultancy focused on making companies data-driven through custom apps, dashboards, and automation.  
+
+## Currently Learning  
+- Computational Social Sciences  
+- Advanced Data Science & AI  
+
+## Looking to Collaborate On  
+- Open-source projects in data science, web & mobile development  
+- BI dashboards and automation tools  
+- Cross-disciplinary projects mixing social sciences and technology  
+
+## Reach Me  
+- Email: ferreyralorenzo2@gmail.com  
+- LinkedIn: [linkedin.com/in/lorenzoferreyra](https://www.linkedin.com/in/lorenzoferreyra/)  
+
+---
+
+"Turning ideas into data-driven solutions."  
