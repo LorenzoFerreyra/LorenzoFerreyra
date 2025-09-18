@@ -2,7 +2,7 @@
 
 From Santa Fe, Argentina  
 
-## About Me  
+## About me  
 I’m a software developer and data professional with experience in:  
 - Automation & Data Pipelines (Python, web scraping, AWS, CD/CI)  
 - Backend Development (Django, Golang, Firebase)
