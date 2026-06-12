@@ -10,7 +10,7 @@ I’m a software developer and data professional with experience in:
 - Business Intelligence & Data Analytics (Power Platform, Looker Studio, SQL, NoSQL)
 - Marketing automation and CRM integration (Kommo, GoHighLevel).
 
-Partner at [pymedriven](https://www.pymedriven.com), a consultancy focused on making companies data-driven through custom apps, dashboards, and process automation.  
+Partner at [umeia](http://umeia.io/), an AI-powered platform that automates business conversations across all channels. 
 
 ## Currently Learning  
 - Computational Social Sciences  
